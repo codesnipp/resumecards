@@ -4,7 +4,7 @@ demo: true
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars1.githubusercontent.com/u/10870260?v=3&s=460"
+photo: ""
 name: "Beena Avireni"
 copy: "A front-end developer skilled at building accessible, responsive web pages with HTML5, CSS3 & Javascript. Highly motivated and looking to explore new technologies in Web development. Passionate about Visual design/development with clean code."
 
